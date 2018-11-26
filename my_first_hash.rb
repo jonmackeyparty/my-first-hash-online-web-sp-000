@@ -1,5 +1,5 @@
 def my_hash
-  
+  your_hash = {"bad weed" => "Reggie", "mid-grade weed" => "Mids", "top-shelf weed" => ""
 
   
 end
